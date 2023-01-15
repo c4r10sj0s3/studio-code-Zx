@@ -55,17 +55,3 @@
 2023-01-15 15:11:20.710 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\.git\COMMIT_EDITMSG [173ms]
 2023-01-15 15:11:20.758 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\cj.java [233ms]
 2023-01-15 15:11:20.993 [info] > git show --textconv :.git/COMMIT_EDITMSG [257ms]
-2023-01-15 15:11:21.005 [info] > git cat-file -s 07875d5864ba95c12c12f7f1d8af91918db4eef7 [233ms]
-2023-01-15 15:11:21.626 [info] > git show --textconv :cj.java [601ms]
-2023-01-15 15:11:42.965 [info] > git ls-tree -l HEAD -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\esladio code .com cj.txt [173ms]
-2023-01-15 15:11:42.972 [info] > git show --textconv HEAD:esladio code .com cj.txt [189ms]
-2023-01-15 15:12:16.276 [info] > git -c user.useConfigOnly=true commit --quiet [183834ms]
-2023-01-15 15:12:16.276 [info] Aborting commit due to empty commit message.
-2023-01-15 15:12:24.182 [info] > git add -A -- . [303ms]
-2023-01-15 15:12:25.824 [info] > git show --textconv :.git/COMMIT_EDITMSG [315ms]
-2023-01-15 15:12:25.845 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\.git\COMMIT_EDITMSG [320ms]
-2023-01-15 15:12:26.124 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\.git\COMMIT_EDITMSG [245ms]
-2023-01-15 15:12:52.408 [info] > git add -A -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\esladio code .com cj.txt [130ms]
-2023-01-15 15:12:52.409 [info] fatal: pathspec 'C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\esladio code .com cj.txt' did not match any files
-2023-01-15 15:13:12.396 [info] > git add -A -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\esladio code .com cj.txt [123ms]
-2023-01-15 15:13:12.396 [info] fatal: pathspec 'C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\esladio code .com cj.txt' did not match any files
