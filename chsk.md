@@ -54,4 +54,4 @@
 2023-01-15 15:11:19.885 [info] > git stalas -z -uall [199ms]
 2023-01-15 15:11:20.710 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\.git\COMMIT_EDITMSG [173ms]
 2023-01-15 15:11:20.758 [info] > git ls-files --stage -- C:\Users\carlo\OneDrive\Escritorio\sladio code;Zx\cj.java [233ms]
-2023-01-15 15:11:20.993 [info] > git show --textconv :.git/COMMIT_EDITMSG [257ms]
+2023-01-15 15:11:20.993 [info] > git show --textconv :.git/COMMIT_EDITMSG 
