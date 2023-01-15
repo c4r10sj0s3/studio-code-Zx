@@ -1,1 +1,0 @@
-"user.name y user.email para confirmasiones en mi archivo de java 
